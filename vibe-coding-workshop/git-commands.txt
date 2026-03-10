@@ -1,0 +1,25 @@
+# Git Commands for Vibe Coding Workshop
+
+# Navigate to project directory
+cd "c:\YEAR 2024\Downloads\project-bolt-sb1-4qtz4c61\vibe-coding-workshop"
+
+# Initialize Git repository
+git init
+
+# Add all files
+git add .
+
+# Initial commit
+git commit -m "Initial commit: Complete Vibe Coding Workshop implementation
+
+- All 4 UCs implemented (UC-0A, UC-0B, UC-0C, UC-X)
+- Complete documentation and README files
+- Test data for all scenarios
+- Setup validation script
+- PR template for submissions"
+
+# Add remote repository (replace YOUR_USERNAME)
+git remote add origin https://github.com/YOUR_USERNAME/vibe-coding-workshop.git
+
+# Push to GitHub
+git push -u origin main

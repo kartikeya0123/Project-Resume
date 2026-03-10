@@ -1,0 +1,21 @@
+complaint_id,complaint_text,category,location,date,severity
+1,Water logging during monsoon in Salt Lake area,Infrastructure,Salt Lake,2024-01-15,High
+2,Stray cattle causing traffic problems,Services,Salt Lake,2024-01-16,Medium
+3,Garbage burning causing air pollution,Environment,Dum Dum,2024-01-17,Medium
+4,Frequent power cuts in residential area,Infrastructure,Salt Lake,2024-01-18,High
+5,Illegal construction blocking roads,Infrastructure,Gariahat,2024-01-19,High
+6,Noise pollution from nearby factories,Environment,Tollygunge,2024-01-20,Medium
+7,Potholes on EM Bypass causing accidents,Infrastructure,EM Bypass,2024-01-21,High
+8,Water supply disruption in south Kolkata,Infrastructure,Garia,2024-01-22,High
+9,Dengue cases rising in residential area,Health,Behala,2024-01-23,Medium
+10,Street lights not working on Park Street,Infrastructure,Park Street,2024-01-24,High
+11,Drainage overflow during rains,Infrastructure,Alipore,2024-01-25,High
+12,Parking issues near New Market,Services,New Market,2024-01-26,Low
+13,Air quality poor in industrial areas,Environment,Tollygunge,2024-01-27,Medium
+14,School safety concerns during drop-off,Education,Salt Lake,2024-01-28,High
+15,Maidan maintenance needed,Services,Maidan,2024-01-29,Low
+16,Traffic congestion at AJ Bose crossing,Infrastructure,Dumdum,2024-01-30,Medium
+17,Contaminated water supply reported,Health,Behala,2024-01-31,High
+18,Trees falling on roads during storms,Environment,Alipore,2024-02-01,Medium
+19,Hospital emergency response delays,Health,Salt Lake,2024-02-02,High
+20,Community toilet maintenance issues,Services,Behala,2024-02-03,Medium

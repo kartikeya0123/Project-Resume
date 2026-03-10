@@ -1,0 +1,21 @@
+complaint_id,complaint_text,category,location,date,severity
+1,Water shortage in residential colonies during summer,Infrastructure,Bopal,2024-01-15,High
+2,Stray animal problems in residential society,Services,Satellite,2024-01-16,Medium
+3,Garbage collection irregular in commercial areas,Services,C.G. Road,2024-01-17,Medium
+4,Voltage fluctuations damaging home appliances,Infrastructure,Gurukul,2024-01-18,High
+5,Illegal encroachments blocking footpaths,Infrastructure,C.G. Road,2024-01-19,High
+6,Noise pollution from traffic during peak hours,Environment,Ashram Road,2024-01-20,Medium
+7,Road damage causing vehicle breakdowns,Infrastructure,S.G. Highway,2024-01-21,High
+8,Municipal water supply contamination,Health,Naroda,2024-01-22,High
+9,Mosquito breeding in society premises,Health,Bopal,2024-01-23,Medium
+10,Street lights not working on major roads,Infrastructure,Ashram Road,2024-01-24,High
+11,Sewage line overflow in residential area,Infrastructure,Mansarovar,2024-01-25,High
+12,Parking problems in market areas,Services,Rajpath,2024-01-26,Low
+13,Industrial air pollution affecting residents,Environment,Vatva,2024-01-27,Medium
+14,School bus safety concerns near schools,Education,Satellite,2024-01-28,High
+15,Garden maintenance needed in public parks,Services,Parimal Garden,2024-01-29,Low
+16,Traffic jam at ISKCON crossing,Infrastructure,S.G. Highway,2024-01-30,Medium
+17,Drinking water quality issues in west Ahmedabad,Health,Gurukul,2024-01-31,High
+18,Trees falling during monsoon blocking roads,Environment,S.P. Ring Road,2024-02-01,Medium
+19,Hospital waste disposal issues,Health,Civil Hospital,2024-02-02,High
+20,Community center maintenance problems,Services,Mansarovar,2024-02-03,Medium

@@ -1,0 +1,137 @@
+IT ACCEPTABLE USE POLICY
+
+1. PURPOSE AND SCOPE
+1.1 This policy defines acceptable use of company IT resources and equipment.
+1.2 Applies to all employees, contractors, and temporary staff.
+1.3 Covers all company-owned devices, networks, and software systems.
+1.4 Extends to company data accessed from personal devices.
+1.5 Violations may result in disciplinary action up to termination.
+
+2. AUTHORIZED USE
+2.1 IT resources may be used for legitimate business purposes only.
+2.2 Personal use permitted during breaks and non-working hours.
+2.3 Personal use must not interfere with business operations.
+2.4 Personal use must not consume excessive bandwidth or storage.
+2.5 Personal use must not violate any laws or company policies.
+
+3. PROHIBITED ACTIVITIES
+3.1 Accessing, storing, or distributing inappropriate content.
+3.2 Installing unauthorized software or applications.
+3.3 Connecting unauthorized devices to company networks.
+3.4 Sharing login credentials or passwords.
+3.5 Bypassing security controls or firewalls.
+3.6 Engaging in illegal activities using company resources.
+3.7 Harassment, discrimination, or threatening communications.
+3.8 Unauthorized data mining or web scraping.
+3.9 Cryptocurrency mining or blockchain operations.
+3.10 Peer-to-peer file sharing of copyrighted material.
+
+4. EMAIL AND COMMUNICATION
+4.1 Company email for business communication only.
+4.2 Personal email use limited to non-working hours.
+4.3 Email attachments must be scanned for viruses.
+4.4 Forwarding company email to personal accounts prohibited.
+4.5 Bulk email sending requires prior approval.
+4.6 Email retention: 90 days for most communications.
+4.7 Sensitive information must be encrypted in emails.
+
+5. INTERNET USAGE
+5.1 Internet access provided for business research and communication.
+5.2 Social media access permitted during breaks.
+5.3 Streaming video/audio limited to non-working hours.
+5.4 Downloading large files requires approval.
+5.5 Personal browsing must not exceed 30 minutes per day.
+5.6 Proxy servers and VPNs prohibited without approval.
+5.7 Online shopping and banking limited to lunch breaks.
+
+6. SOFTWARE AND APPLICATIONS
+6.1 Only company-approved software may be installed.
+6.2 Software installation requires IT department approval.
+6.3 Personal software installation strictly prohibited.
+6.4 Open source software requires security review.
+6.5 Software updates must be installed promptly.
+6.6 License compliance mandatory for all software.
+6.7 Evaluation software must be removed after trial period.
+
+7. DATA SECURITY AND PROTECTION
+7.1 Company data classified as Confidential, Internal, Public.
+7.2 Confidential data requires encryption and access controls.
+7.3 Data transfers to external storage devices prohibited.
+7.4 Cloud storage requires IT security approval.
+7.5 Personal cloud services prohibited for company data.
+7.6 Data backup responsibilities defined by department.
+7.7 Lost or stolen devices must be reported immediately.
+
+8. DEVICE MANAGEMENT
+8.1 Company devices assigned to specific employees only.
+8.2 Device sharing prohibited without IT approval.
+8.3 Devices must be password protected with strong passwords.
+8.4 Device location services must remain enabled.
+8.5 Remote wipe capability enabled on all mobile devices.
+8.6 Personal devices used for work must comply with security standards.
+7.7 Device return required upon employment termination.
+
+9. NETWORK SECURITY
+9.1 Wi-Fi networks secured with WPA2 or better encryption.
+9.2 Public Wi-Fi prohibited for accessing company systems.
+9.3 VPN required for remote access to company network.
+9.4 Network monitoring and logging implemented for security.
+9.5 Unauthorized network devices will be blocked.
+9.6 Network segmentation implemented for different security levels.
+9.7 Intrusion detection systems monitor network traffic.
+
+10. PASSWORD AND AUTHENTICATION
+10.1 Passwords must be at least 8 characters with complexity requirements.
+10.2 Passwords must be changed every 90 days.
+10.3 Previous passwords cannot be reused for 12 months.
+10.4 Multi-factor authentication required for remote access.
+10.5 Password managers recommended for secure storage.
+10.6 Default passwords must be changed on first login.
+10.7 Shared accounts prohibited except with IT approval.
+
+11. REMOTE WORK POLICY
+11.1 Remote work requires secure internet connection.
+11.2 VPN connection mandatory for accessing company resources.
+11.3 Remote work area must be secure and private.
+11.4 Company devices must remain in secure location when not in use.
+11.5 Remote work hours must be documented and approved.
+11.6 Video conferencing etiquette must be followed.
+11.7 Data protection protocols apply to remote work locations.
+
+12. MONITORING AND COMPLIANCE
+12.1 IT systems monitored for security and performance.
+12.2 Email and internet usage may be monitored.
+12.3 File access and modifications logged.
+12.4 Security incidents must be reported immediately.
+12.5 Compliance audits conducted quarterly.
+12.6 Violations documented and reported to management.
+12.7 Cooperation with IT security investigations required.
+
+13. INCIDENT RESPONSE
+13.1 Security incidents must be reported to IT security team.
+13.2 Incident response team activated for major breaches.
+13.3 Evidence preservation required for investigations.
+13.4 Business continuity plans activated during major incidents.
+13.5 Post-incident analysis conducted for improvement.
+13.6 Legal notification requirements for data breaches.
+13.7 Employee training provided for security awareness.
+
+14. POLICY ENFORCEMENT
+14.1 Violations may result in disciplinary action.
+14.2 Serious violations may result in termination.
+14.3 Illegal activities reported to law enforcement.
+14.4 Policy violations documented in employee records.
+14.5 Repeated violations result in escalated consequences.
+14.6 Whistleblower protection for reporting violations.
+14.7 Policy reviewed and updated annually.
+
+CONTACT INFORMATION:
+IT Helpdesk: it.support@company.com
+Phone: +91-80-87654321
+Extension: x123
+Security Team: security@company.com
+Emergency IT: +91-80-99999999 (24/7)
+
+POLICY EFFECTIVE DATE: January 1, 2024
+LAST UPDATED: January 20, 2024
+NEXT REVIEW DATE: January 1, 2025

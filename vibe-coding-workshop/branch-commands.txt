@@ -1,0 +1,16 @@
+# Branch Creation Commands
+
+# Navigate to project directory
+cd "c:\YEAR 2024\Downloads\project-bolt-sb1-4qtz4c61\vibe-coding-workshop"
+
+# Create your participant branch (replace [your-name] and [city])
+git checkout -b participant/[your-name]-[city]
+
+# Examples:
+# git checkout -b participant/arshdeep-pune
+# git checkout -b participant/sneha-hyderabad
+# git checkout -b participant/rahul-kolkata
+# git checkout -b participant/priya-ahmedabad
+
+# Push branch to GitHub
+git push -u origin participant/[your-name]-[city]

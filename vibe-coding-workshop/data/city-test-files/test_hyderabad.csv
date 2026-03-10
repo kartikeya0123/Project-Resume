@@ -1,0 +1,21 @@
+complaint_id,complaint_text,category,location,date,severity
+1,Heavy rainfall causing waterlogging in low-lying areas,Infrastructure,Old City,2024-01-15,High
+2,Street dog menace near apartment complex,Services,Banjara Hills,2024-01-16,Medium
+3,Garbage not collected from commercial complex,Services,Begumpet,2024-01-17,Medium
+4,Power fluctuation damaging electronic appliances,Infrastructure,Jubilee Hills,2024-01-18,High
+5,Illegal construction blocking drainage system,Infrastructure,Madhapur,2024-01-19,High
+6,Noise pollution from late night traffic,Environment,Banjara Hills,2024-01-20,Medium
+7,Potholes on internal roads causing accidents,Infrastructure,Gachibowli,2024-01-21,High
+8,Water supply irregular in residential colony,Infrastructure,Kukatpally,2024-01-22,High
+9,Mosquito problem in residential area,Health,SR Nagar,2024-01-23,Medium
+10,Street lights not working in main road,Infrastructure,Madhapur,2024-01-24,High
+11,Overflowing sewage manholes,Infrastructure,Old City,2024-01-25,High
+12,Parking issues in shopping complex,Services,Panjagutta,2024-01-26,Low
+13,Air pollution from construction activities,Environment,Gachibowli,2024-01-27,Medium
+14,School bus safety issues near school,Education,Hitech City,2024-01-28,High
+15,Public park needs maintenance,Services,Public Gardens,2024-01-29,Low
+16,Traffic jam at busy intersection during peak hours,Infrastructure,Banjara Hills,2024-01-30,Medium
+17,Drinking water contamination reported,Health,Kukatpally,2024-01-31,High
+18,Illegal tree cutting in residential area,Environment,Jubilee Hills,2024-02-01,Medium
+19,Hospital waste management issues,Health,Old City,2024-02-02,High
+20,Community center needs repairs,Services,SR Nagar,2024-02-03,Medium
